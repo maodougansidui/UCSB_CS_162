@@ -1,0 +1,10 @@
+[33mASSERT[0m eval
+[31mFAIL[0m eval
+
+   Expected: `[32m10[0m'
+   Received: `[31m5 + 5[0m'
+
+Raised at file "src/alcotest-engine/test.ml", line 196, characters 4-261
+Called from file "src/alcotest-engine/core.ml", line 180, characters 17-23
+Called from file "src/alcotest-engine/monad.ml", line 24, characters 31-35
+
