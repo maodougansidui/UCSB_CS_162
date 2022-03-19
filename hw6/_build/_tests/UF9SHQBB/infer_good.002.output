@@ -1,0 +1,9 @@
+[failure] TODO: hw5
+          Raised at file "stdlib.ml", line 29, characters 17-33
+          Called from file "typeinfer.ml" (inlined), line 193, characters 57-77
+          Called from file "typeinfer.ml", line 196, characters 13-30
+          Called from file "typeinfer.ml", line 220, characters 12-36
+          Called from file "test.ml", line 37, characters 8-30
+          Called from file "src/alcotest-engine/core.ml", line 180, characters 17-23
+          Called from file "src/alcotest-engine/monad.ml", line 24, characters 31-35
+          
